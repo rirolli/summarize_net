@@ -1,0 +1,10 @@
+#Folders
+.idea/
+.vscode/
+Include/
+Lib/
+Scripts/
+share/
+
+#Files
+pyvenv.cfg
