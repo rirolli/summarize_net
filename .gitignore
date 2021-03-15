@@ -8,6 +8,3 @@ share/
 
 #Files
 pyvenv.cfg
-
-# Nix, finché non vi convertirò
-*.nix
